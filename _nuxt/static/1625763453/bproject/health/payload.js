@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bproject/health", {data:[{}],fetch:{},mutations:[]});

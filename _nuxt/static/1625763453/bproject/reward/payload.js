@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bproject/reward", {data:[{}],fetch:{},mutations:[]});
